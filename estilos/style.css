@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+/*Estilizando a tela do celular*/
+
 *{
     margin: 0px;
     padding: 0px;
@@ -36,10 +38,32 @@ section#telefone{
 
 iframe#tela{
     position: absolute;
-    top: 50.4%;
+    top: 50.5%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 265px;
-    height: 467.5px;
+    height: 470px;
 
+}
+
+/*Estilizando os botões*/
+
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.500);
+    box-sizing: border-box;
+    transition: 50ms, border 500ms;
+}
+
+section#redes-sociais{
+    text-align: right;
+}
+
+section#redes-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.555);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.500);
+    
 }
