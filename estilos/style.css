@@ -14,7 +14,7 @@ body, html{
 }
 
 body{
-    background: url('../imagens/fundo-madeira.jpg'), no-repeat top center;
+    background: url('../minhas-imagens/fundo-xiaomi-blur.jpg'), no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -31,14 +31,14 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 632px;
     width: 300px;
     background: url(../minhas-imagens/frame-cell-s.png), no-repeat;
 }
 
 iframe#tela{
     position: absolute;
-    top: 50.2%;
+    top: 49.7%;
     left: 49.7%;
     transform: translate(-50%, -50%);
     width: 265px;
