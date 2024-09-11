@@ -1,9 +1,10 @@
-<h1 align="center" style="font-weight: bold;">Projeto Social 💻</h1>
+<h1 align="center" style="font-weight: bold;">Projeto Social 📱</h1>
 
 <p align="center">
  <a href="#func">Funcionamento</a> • 
  <a href="#tech">Tecnologias</a> • 
- <a href="#started">Primeiros Passos</a> 
+ <a href="#started">Primeiros Passos</a> •
+ <a href="#pages">GitHub Pages</a> 
 </p>
 
 <h2>Descrição</h2>
@@ -52,4 +53,10 @@ Use o comando abaixo para clonar este projeto
 ```bash
 git clone https://github.com/joao72neto/projeto-social
 ```
+
+<h2 id="pages">🐙 GitHub Pages</h2>
+
+Para testar o funcionamento do site acima, clique <a href="https://joao72neto.github.io/projeto-social/" target="_blank">aqui</a> para abrir o projeto hospedado
+pelo GitHub Pages
+
 
