@@ -15,7 +15,7 @@
 </p>
 <p align="left">
     <b>O site tem como propósito simular o funcionamento de um celular ao navegar entre aplicativos, sejam esses de mídias sociais ou não. Isso foi feito com
-    o propósito de aplicar o uso de iframes de uma maneira divertida e inusitada</b>
+    o objetivo de aplicar o uso de iframes de uma maneira divertida e inusitada</b>
 </p>
 
 <h2>Layout</h2>
@@ -25,7 +25,7 @@
 <h2 id="func"> Funcionamento </h2>
 
 Do lado direito da tela, há todas as possibilidades possíveis de aplicativos para navegação. Eles não são funcionais, são apenas prints
-extendidos tirados por mim para emular o comportamento de rolagem dos aplicativos. 
+extendidos tirados por mim para emular o comportamento de rolagem dos apps. 
 
 Dentro da pasta "minhas-imagens" você tem acesso a todas as imagens que eu utilizei para reproduzir exatamente o meu celular. 
 Fique à vontade para substituí-las pelas suas próprias.
