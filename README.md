@@ -47,7 +47,7 @@ Para executar o site localmente é muito simples. Basta clonar o repositório e 
 
 <h3>Clonando</h3>
 
-Como clonar este projeto
+Use o comando abaixo para clonar este projeto
 
 ```bash
 git clone https://github.com/joao72neto/projeto-social
