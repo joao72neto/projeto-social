@@ -15,8 +15,8 @@
     </b>
 </p>
 <p align="left">
-    <b>O site tem como propósito simular o funcionamento de um celular ao navegar entre aplicativos, sejam esses de mídias sociais ou não. Isso foi feito com
-    o objetivo de aplicar o uso de iframes de uma maneira divertida e inusitada</b>
+    O site tem como propósito simular o funcionamento de um celular ao navegar entre aplicativos, sejam esses de mídias sociais ou não. Isso foi feito com
+    o objetivo de aplicar o uso de iframes de uma maneira divertida e inusitada.
 </p>
 
 <h2>Layout</h2>
@@ -39,14 +39,14 @@ Fique à vontade para substituí-las pelas suas próprias.
 
 <h2 id="started">🚀 Primeiros Passos</h2>
 
-Para executar o site localmente é muito simples. Basta clonar o repositório e executar o arquivo index.html em qualquer navegador
+Para visualizar o site localmente, basta clonar o repositório e executar o arquivo index.html com qualquer navegador
 
 <h3>Pré-Requisitos</h3>
 
 - [Navegador WEB](https://www.google.com/intl/pt-BR/chrome/)
 
 
-<h3>Clonando</h3>
+<h3>Clonagem</h3>
 
 Use o comando abaixo para clonar este projeto
 
